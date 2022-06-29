@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Getting Started with React Tailwind CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
+
+<p>
+  <a href="https://tailwindcss.com/#gh-light-mode-only" target="_blank">
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
+  </a>
+  <a href="https://tailwindcss.com/#gh-dark-mode-only" target="_blank">
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-dark.svg" alt="Tailwind CSS" width="350" height="70">
+  </a>
+</p>
+
+A utility-first CSS framework for rapidly building custom user interfaces.
+
+------
+
+## Documentation
+
+For full documentation, visit [tailwindcss.com](https://tailwindcss.com/).
+
 
 ## Available Scripts
 
